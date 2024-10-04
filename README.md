@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityaprasad502/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityaprasad502/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
