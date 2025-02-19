@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaprasad502/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/adityaprasad502/LeetCode/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
