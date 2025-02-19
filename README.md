@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
