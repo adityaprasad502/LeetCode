@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
