@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [2556-convert-the-temperature](https://github.com/adityaprasad502/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/adityaprasad502/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adityaprasad502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/adityaprasad502/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
