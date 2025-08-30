@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 ## String
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
