@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
 ## Counting Sort
 |  |
