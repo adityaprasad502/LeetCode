@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/adityaprasad502/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/adityaprasad502/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/adityaprasad502/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/adityaprasad502/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
