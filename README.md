@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
+| [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityaprasad502/LeetCode/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
