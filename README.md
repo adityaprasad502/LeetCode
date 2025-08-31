@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaprasad502/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/adityaprasad502/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,9 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityaprasad502/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityaprasad502/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
