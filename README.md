@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/adityaprasad502/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/adityaprasad502/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
