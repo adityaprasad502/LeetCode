@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/adityaprasad502/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/adityaprasad502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/adityaprasad502/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0387-first-unique-character-in-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/adityaprasad502/LeetCode/tree/master/0520-detect-capital) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/adityaprasad502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3379-score-of-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/adityaprasad502/LeetCode/tree/master/3396-valid-word) |
 ## Stack
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityaprasad502/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/adityaprasad502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Counting Sort
 |  |
 | ------- |
