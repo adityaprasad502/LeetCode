@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [2752-sum-multiples](https://github.com/adityaprasad502/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adityaprasad502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/adityaprasad502/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/adityaprasad502/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/adityaprasad502/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
