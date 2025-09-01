@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/adityaprasad502/LeetCode/tree/master/0520-detect-capital) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3379-score-of-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/adityaprasad502/LeetCode/tree/master/3396-valid-word) |
 ## Stack
