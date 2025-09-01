@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityaprasad502/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/adityaprasad502/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/adityaprasad502/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityaprasad502/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adityaprasad502/LeetCode/tree/master/0258-add-digits) |
 | [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 ## Queue
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/adityaprasad502/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
