@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaprasad502/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityaprasad502/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityaprasad502/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityaprasad502/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
