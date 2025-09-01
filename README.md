@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaprasad502/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaprasad502/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/adityaprasad502/LeetCode/tree/master/1137-height-checker) |
+| [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/adityaprasad502/LeetCode/tree/master/1708-design-parking-system) |
+| [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaprasad502/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/adityaprasad502/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
