@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/adityaprasad502/LeetCode/tree/master/0520-detect-capital) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adityaprasad502/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adityaprasad502/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adityaprasad502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3379-score-of-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/3379-score-of-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Powered by Lee
 | [0217-contains-duplicate](https://github.com/adityaprasad502/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityaprasad502/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaprasad502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adityaprasad502/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adityaprasad502/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
